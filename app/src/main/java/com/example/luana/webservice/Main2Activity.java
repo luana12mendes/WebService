@@ -12,7 +12,7 @@ import java.net.URI;
 public class Main2Activity extends AppCompatActivity {
 
     TextView webService;
-    String uri = "Http://swapi.co/api/people/1/";
+    String uri = "Http://swapi.co/api/people/2/";
     String url;
 
     @Override
